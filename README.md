@@ -6,7 +6,7 @@ This project was created to practice **UI/UX design principles**, **interactive 
 ---
 
 ## 🔗 Live Prototype
-👉 [View on Figma](https://www.figma.com/proto/your-figma-link-here](https://www.figma.com/proto/XFJgsdE4tEzIB69AAvQYzs/Netflix?node-id=2-191&p=f&t=VgYY3795KyHx1IZB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+👉 [View on Figma](https://www.figma.com/proto/XFJgsdE4tEzIB69AAvQYzs/Netflix?node-id=2-191&p=f&t=VgYY3795KyHx1IZB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
